@@ -1,3 +1,31 @@
-*{
+* {
 	box-sizing: border-box;
+	margin: 25px;
+	border: 0;
+	padding: 0;
+	color: black;
 }
+
+body{
+	background: #96be25;
+}
+
+a:link, a:visited{
+	color: black;
+	font-style: normal;
+	text-decoration: none;
+}
+
+#homepageLink {
+	font-family: Poppins Semi Bold, sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+	margin-left: 50px;
+}
+
+.headerLink {
+	font-family: sans-serif;
+	font-weight: lighter;
+	font-size: 14px;
+}
+
