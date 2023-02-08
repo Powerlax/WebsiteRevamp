@@ -16,20 +16,17 @@ a:link, a:visited{
 	text-decoration: none;
 }
 
-#header {
-	display: flex;
-	justify-content: space-between;
-	margin: 0px;
-}
-#homepageLink {
-	font-family: Poppins Semi Bold, sans-serif;
-	font-weight: bold;
-	font-size: 25px;
-}
-
-
 .headerLink {
 	font-family: sans-serif;
 	font-weight: lighter;
 	font-size: 14px;
+	text-align: right;
+
+}
+
+#homepageLink {
+	font-family: Poppins Semi Bold, sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+	margin-left: 50px;
 }

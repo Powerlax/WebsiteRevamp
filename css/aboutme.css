@@ -1,0 +1,21 @@
+h1{
+	font-family: Poppins Semi Bold, sans-serif;
+	font-size: 38px;
+	width: 800px;
+	margin: auto;
+	padding-top: 50px;	
+}
+
+p {
+	font-family: Avenir, sans-serif;
+	font-size: 18px;
+	width: 800px;
+	margin: auto;
+	padding-top: 40px;	
+	line-height: 1.6;
+	font-weight: 600;
+}
+
+#aboutmeLink {
+	color: #0050FF;
+}

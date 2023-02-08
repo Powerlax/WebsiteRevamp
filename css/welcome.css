@@ -1,0 +1,74 @@
+img {
+	width: 205px;
+	height: 205px;
+	border-radius: 50%
+}
+
+.block {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 400px;
+}
+
+#overall {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+h1 {
+	width: auto;
+	font-family: Poppins Semi Bold, sans-serif;
+	font-size: 27px;
+	font-weight: bold;
+	box-sizing: content-box;
+}
+
+#blueline {
+	width: 50px;
+	height: 1.5px;
+	background: #0050FF;
+	margin-top: 15px;
+}
+
+#welcomeLink {
+	color: #0050FF;
+}
+
+#role {
+	margin-top: 15px;
+	font-family: Avenir Light, sans-serif;
+	font-size: 17;
+	letter-spacing: 2.5px;
+}
+
+#hello {
+	font-family: Poppins Semi Bold, sans-serif;
+	font-size: 100px;
+	font-weight: bold;
+}
+
+.button {
+  background-color: #0050FF;
+  color: white !important;
+  height: 35px;
+  text-align: center;
+  display: inline-block;
+  padding: 10.5px;
+  font-size: 14px;
+  margin: 4px 2px;
+  width: 130px;
+  font-family: sans-serif;
+  border-radius: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#blurb {
+	font-family: Averir Light, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	font-weight: light;
+	line-height: 1.5;
+}
