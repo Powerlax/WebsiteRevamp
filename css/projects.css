@@ -1,0 +1,56 @@
+.link {
+	margin: 0px;
+}
+
+#intro {
+	display: flex;
+	text-align: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+h1 {
+	font-family: Poppins Semi Bold, sans-serif;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+section, p {
+	font-family: Avenir Light, sans-serif;
+	width: 670px;
+	font-size: 17px;
+	line-height: 1.5;
+}
+
+p {
+	width: 400px;
+	font-size: 17px;
+}
+
+.projects {
+	display: flex;
+	background: white;
+	height: 360px;
+	width: 787px;
+	margin: auto;
+}
+
+article {
+	font-family: Poppins Semi Bold, sans-serif;
+	font-size: 24px;
+	font-weight: bolder;
+	color: #0050FF;
+}
+
+.link {
+	text-decoration: underline !important;
+}
+
+img {
+	height: 360px;
+	margin: 0px;
+}
+
+#projectsLink {
+	color: #0050FF;
+}
